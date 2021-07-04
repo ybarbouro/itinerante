@@ -1,12 +1,12 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Cultura.Gye
+tagline: M. I. Municipio de Guayaquil
+featuredImage: /assets/cultura_gye.png
 cta:
-  ctaText: Know more
+  ctaText: Conoce más
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Textos informativos sobre cada uno de los objetos que se exhiben el Museo Itinerante de Guayaquil

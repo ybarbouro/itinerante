@@ -8,19 +8,15 @@ import Theme from "../components/theme"
 const MenuItems = [
   {
     path: "/",
-    title: "Home",
+    title: "Inicio",
   },
   {
     path: "/about",
-    title: "About",
+    title: "Museo itinerante",
   },
   {
     path: "/blog",
-    title: "Blog",
-  },
-  {
-    path: "/contact",
-    title: "Contact",
+    title: "Exposición",
   },
 ]
 
