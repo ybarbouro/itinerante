@@ -3,7 +3,7 @@ template: blog-post
 slug: /metalurgia-prehispanica
 date: 2021-07-04 18:00
 title: "Metalurgia prehispánica"
-featuredImage: /assets/mike-dorner-sf_1ZDA1YFw-unsplash.jpg
+featuredImage: /assets/metalurgia.jpg
 description: Exposición Museo Itinerante de Guayaquil
 ---
 
@@ -15,4 +15,4 @@ description: Exposición Museo Itinerante de Guayaquil
 
 **Narigueras.-** Aretes usados en la parte baja de la nariz con el fin de embellecer el cuerpo. Algunas de ellas ameritaban la perforación del lóbulo nasal medio.
 
-**Hachas moneda.-** Usadas como medio de intercambio de bienes (dinero), se las ha encontrado en paquetes de 9 a 12 unidades envueltas en telas de algodón, formando parte de los ajuares funerarios en las tumbas de sus muertos. 
+**Hachas moneda.-** Usadas como medio de intercambio de bienes (dinero), se las ha encontrado en paquetes de 9 a 12 unidades envueltas en telas de algodón, formando parte de los ajuares funerarios en las tumbas de sus muertos.

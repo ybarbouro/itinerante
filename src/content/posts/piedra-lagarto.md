@@ -4,7 +4,7 @@ title: Piedra del lagarto Puná
 slug: /piedra-lagarto
 date: 2021-07-04 23:10
 description: Exposición Museo Itinerante de Guayaquil
-featuredImage: /assets/team-cats.jpg
+featuredImage: /assets/lagarto.jpg
 ---
 
 **Período de Integración.** *Cultura Manteño - Huancavilca 500 D.C. - 1526 D.C.*  

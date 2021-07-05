@@ -4,7 +4,7 @@ title: Poste totémico Huancavilca
 slug: /totem-huancavilca
 date: 2021-07-04 20:00
 description: Exposición Museo Itinerante de Guayaquil
-featuredImage: /assets/screen-post-hixmjh9xhoo-unsplash.jpg
+featuredImage: /assets/totem.jpg
 ---
 
 **Período de Integración** *Cultura Manteño - Huancavilca 500 D.C. - 1526 D.C.*

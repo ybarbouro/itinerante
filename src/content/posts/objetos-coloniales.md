@@ -4,7 +4,7 @@ title: Objetos coloniales
 slug: /objetos-coloniales
 date: 2021-07-04 16:00
 description: Exposición Museo Itinerante de Guayaquil
-featuredImage: /assets/annie-spratt-hx_hf2lppuu-unsplash.jpg
+featuredImage: /assets/macuquinas.jpg
 ---
 **Botija.-** Objeto de barro usado en la época colonial para almacenar principalmente agua o vino.  
 

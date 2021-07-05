@@ -3,7 +3,7 @@ title: El Acta de la Independencia
 template: blog-post
 date: 2021-07-04 15:00
 slug: /acta-indepencencia
-featuredImage: /assets/alexander-andrews-zw07kvdahpw-unsplash.jpg
+featuredImage: /assets/acta.jpg
 description: Exposición Museo Itinerante de Guayaquil
 ---
 

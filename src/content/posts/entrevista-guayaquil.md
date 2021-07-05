@@ -4,7 +4,7 @@ title: Maqueta del monumento a la Entrevista de Guayaquil
 slug: /entrevista-guayaquil
 date: 2021-07-04 12:00
 description: Exposición Museo Itinerante de Guayaquil
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+featuredImage: /assets/entrevista.jpg
 ---
 
 Maqueta de la propuesta original presentada por el escultor José Antonio Homs para el monumento a los Libertadores en el Malecón de la ciudad. Esta propuesta fue rechazada.

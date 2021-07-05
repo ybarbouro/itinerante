@@ -4,7 +4,7 @@ title: Silla en forma de U
 slug: /silla-en-u
 date: 2021-07-04 19:00
 description: Exposición Museo Itinerante de Guayaquil
-featuredImage: /assets/sebastiaan-stam-5hbrem-5mnq-unsplash.jpg
+featuredImage: /assets/silla.jpg
 ---
 
 **Período de Integración.** *Cultura Manteño - Huancavilca 500 D.C. - 1526 D.C.*  

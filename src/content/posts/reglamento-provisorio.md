@@ -4,7 +4,7 @@ title: Reglamento Provisorio de Gobierno
 slug: /reglamento-provisorio
 date: 2021-07-04 14:00
 description: Exposición Museo Itinerante de Guayaquil
-featuredImage: /assets/charles-deluvio-d-vdqmtfaau-unsplash.jpg
+featuredImage: /assets/reglamento.jpg
 ---
 
 Guayaquil se independiza el 9 de Octubre de 1820, pero realmente es libre el 8 de noviembre del mismo año mediante este documento, elaborado por 57 diputados de la provincia de Guayaquil, estando J. J. de Olmedo a la cabeza. Constaba de 20 artículos, de los cuales el primero de ellos enfatizaba que esta provincia era libre e independiente. Este documento entra en vigencia a partir de noviembre de 1820 hasta el 11 de julio de 1822, año en que Bolívar arriba a la ciudad para posteriormente anexar a la Provincia de Guayaquil a la Gran Colombia.

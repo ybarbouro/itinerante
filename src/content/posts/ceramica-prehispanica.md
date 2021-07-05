@@ -4,7 +4,7 @@ title: Cerámica prehispánica
 slug: /ceramica-prehispanica
 date: 2021-07-04 22:00
 description: Exposición Museo Itinerante de Guayaquil
-featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
+featuredImage: /assets/ceramica.jpg
 ---
 
 El período cerámico «Formativo» duró aproximadamente 3.000 años, comprende del 3.900 a.C. al 500 a.C. y las culturas de la Costa identificadas con este período son las de Valdivia, Machalilla y Chorrera.  

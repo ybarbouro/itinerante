@@ -4,7 +4,7 @@ title: Maqueta de la Columna de los Próceres
 slug: /columna-proceres
 date: 2021-07-04 09:00
 description: Exposición Museo Itinerante de Guayaquil
-featuredImage: /assets/screen-post-hixmjh9xhoo-unsplash.jpg
+featuredImage: /assets/maqueta-columna.jpg
 ---
 
 El jueves 8 de diciembre de 1917 con la colocación de la alegoría de la Libertad sobre el capitel de la Columna de los Próceres, el escultor catalán Josep Monserrat Portella concluía su trabajo; con aquella ocasión, se presume que, once réplicas en miniatura del monumento fueron entregadas a los miembros del Comité del Centenario de la Independencia.

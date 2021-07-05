@@ -4,7 +4,7 @@ title: San Biritute
 slug: /san-biritute
 date: 2021-07-04 21:00
 description: Exposición Museo Itinerante de Guayaquil
-featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
+featuredImage: /assets/biritute.jpg
 ---
 
 **Período de Integración.** *Cultura Manteño - Huancavilca 500 D.C. - 1526 D.C.*
